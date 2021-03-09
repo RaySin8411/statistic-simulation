@@ -1,4 +1,4 @@
-# NCHU_STAT-statistic-simulation
+# Statistic Simulation
 Some practice when I was a student in NCHU STAT.
 
 Two Partitions
