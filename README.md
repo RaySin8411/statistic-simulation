@@ -16,3 +16,7 @@ Two Partitions
 
 ## Survival Analysis
 * KM estimates
+
+## Time Series Analysis
+If you want know more about this, you can go to the project: 
+    [Quantitative-trading](https://github.com/q8977452/Quantitative-trading)
